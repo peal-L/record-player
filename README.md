@@ -1,5 +1,7 @@
 # 唱片播放器（record-player）
 
+## demo地址：https://peal.cc/player
+
 ## 运行截图
 
 ![demo](https://kjava.com/zs/image/Oo2UoO)
