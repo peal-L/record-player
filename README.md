@@ -4,7 +4,7 @@
 
 ## 运行截图
 
-![demo](https://kjava.com/zs/image/Oo2UoO)
+![demo](./static/project.png)
 
 ## 功能点：
 
