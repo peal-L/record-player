@@ -15,7 +15,7 @@
 
 ## 命令
 
-```bash
+```bash 
 # 安装依赖
 $ yarn install
 
